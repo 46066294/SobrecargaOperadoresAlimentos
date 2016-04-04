@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\SobrecargaOperadoresAlimentos\SobrecargaOperadoresAlimentos\bin\Debug\SobrecargaOperadoresAlimentos.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\SobrecargaOperadoresAlimentos\SobrecargaOperadoresAlimentos\obj\Debug\SobrecargaOperadoresAlimentos.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\SobrecargaOperadoresAlimentos\SobrecargaOperadoresAlimentos\bin\Debug\SobrecargaOperadoresAlimentos.exe
+c:\users\admin\documents\visual studio 2012\Projects\SobrecargaOperadoresAlimentos\SobrecargaOperadoresAlimentos\bin\Debug\SobrecargaOperadoresAlimentos.pdb
+c:\users\admin\documents\visual studio 2012\Projects\SobrecargaOperadoresAlimentos\SobrecargaOperadoresAlimentos\obj\Debug\SobrecargaOperadoresAlimentos.exe
+c:\users\admin\documents\visual studio 2012\Projects\SobrecargaOperadoresAlimentos\SobrecargaOperadoresAlimentos\obj\Debug\SobrecargaOperadoresAlimentos.pdb
